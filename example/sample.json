@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Alice",
+    "ativa": true,
+    "pontuacao": 98.5,
+    "etiquetas": ["dev", "go"],
+    "metadados": { "equipa": "A", "nivel": 3 }
+  },
+  {
+    "id": 2,
+    "nome": "Bob",
+    "ativa": false,
+    "pontuacao": 76.0,
+    "etiquetas": ["dados"],
+    "metadados": { "equipa": "B", "nivel": 1 }
+  },
+  {
+    "id": 3,
+    "nome": "Carla",
+    "ativa": true,
+    "pontuacao": 100,
+    "etiquetas": [],
+    "metadados": { "equipa": "A", "nivel": 2 }
+  }
+]
